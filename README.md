@@ -5,9 +5,11 @@
   <br />
   Inspired by <a href="https://github.com/cngu/vue-typer">vue-typer</a>.
   Forked from <a href="https://github.com/Li357/reactyper">reactyper</a>.
-  <img src="https://img.shields.io/npm/v/preactyper?style=flat-square" />
-  <img src="https://img.shields.io/npm/dm/preactyper?style=flat-square" />
-  <img src="https://img.shields.io/github/license/ndom91/preactyper?style=flat-square" />
+  <p>
+    <img src="https://img.shields.io/npm/v/preactyper?style=flat-square" />
+    <img src="https://img.shields.io/npm/dm/preactyper?style=flat-square" />
+    <img src="https://img.shields.io/github/license/ndom91/preactyper?style=flat-square" />
+  </p>
 </p>
 
 
