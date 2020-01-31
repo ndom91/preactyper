@@ -40,7 +40,7 @@ import Typer from 'preactyper';
 
 #### Browser
 
-```
+```js
 <script src="https://unpkg.com/preactyper@0.7.1/dist/preactyper.min.js">
 ```
 
@@ -134,7 +134,7 @@ Each prop is listed in the format `<prop>: <type> = <default-value>`. **Note**: 
 
 The typer's styles are set to a relatively low specificity to allow overwriting them:
 
-```
+```css
 .preactyper {
   /* styles for entire typer span */
 }
