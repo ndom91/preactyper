@@ -38,6 +38,14 @@ Then import:
 import Typer from 'preactyper';
 ```
 
+#### Browser
+
+```
+<script src="https://unpkg.com/preactyper@0.7.1/dist/preactyper.min.js">
+```
+
+And access via `window.Typer`
+
 ## Props
 
 Each prop is listed in the format `<prop>: <type> = <default-value>`. **Note**: The typer is considered complete when it has run once through the whole spool, then an additional number of repeats through the spool, and has erased the last string if `eraseOnComplete` is true.
