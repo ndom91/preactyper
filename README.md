@@ -8,6 +8,8 @@
   <p align="center">
     <img src="https://img.shields.io/npm/v/preactyper?style=flat-square" />
     <img src="https://img.shields.io/npm/dm/preactyper?style=flat-square" />
+    <img src="https://img.shields.io/github/issues/ndom91/preactyper?style=flat-square" />
+    <img src="https://img.shields.io/github/languages/code-size/ndom91/preactyper?style=flat-square" />
     <img src="https://img.shields.io/github/license/ndom91/preactyper?style=flat-square" />
   </p>
 </p>
